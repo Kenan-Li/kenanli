@@ -12,11 +12,8 @@ main:
   - title: "Research Grants"
     url: /portfolio/
 
-  - title: "Blog Posts"
+  - title: "software"
     url: /year-archive/
 
   - title: "CV"
     url: /cv/
-
-  - title: "Guide"
-    url: /markdown/
